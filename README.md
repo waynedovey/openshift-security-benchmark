@@ -1,3 +1,4 @@
 __Example Command__
 
-```kube-bench --version ocp-3.11 ```
+```kube-bench master --version ocp-3.11 ```
+```kube-bench node --version ocp-3.11```
